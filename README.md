@@ -8,8 +8,8 @@ User Space application to gather network interface information.
 
 ## run
 
-`./myconfig` <to see available interfaces > \
-`./myconfig eth0` <to see interface info>
+`./myconfig` <to see available interfaces >   
+`./myconfig eth0` <to see interface info>  
 
 # related
 
