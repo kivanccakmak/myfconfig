@@ -1,3 +1,6 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <stdbool.h>
 #include "myiolib.h"
 
 static void usage();

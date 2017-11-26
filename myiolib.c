@@ -1,3 +1,18 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+#include <errno.h>
+#include <fcntl.h>
+#include <sys/ioctl.h>
+#include <sys/socket.h>
+#include <unistd.h>
+#include <stdbool.h>
+
+#include <netpacket/packet.h>
+#include <net/ethernet.h>
+#include <arpa/inet.h>
+
 #include "myiolib.h"
 
 /**
